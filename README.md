@@ -92,5 +92,5 @@ You should see the live dashboard!
 ## 👨‍💻 Contributors
 - Saiteja Mareda  
 - Tanvi  
-- Satwik Vanam  
+- Sathwik Vanam  
 - Noor Mohammad  
